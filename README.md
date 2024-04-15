@@ -13,7 +13,7 @@ git clone https://github.com/ccb-hms/ollama-rag-workshop.git
 Navigate to the project root directory:
 
 ```bash
-cd jupyter-docker-compose
+cd ollama-rag-workshop
 ```
 
 Build the the image for the Jupyter Notebook server:
